@@ -3,6 +3,10 @@
 [![GitHub](https://img.shields.io/badge/Code-blue?logo=github)](https://github.com/rajavavek/SEA-GAN-CT)        [![Paper](https://img.shields.io/badge/Paper-orange?logo=read-the-docs)](Under-Progress)         [![Demo](https://img.shields.io/badge/Demo-pink?logo=playstation)](https://github.com/rajavavek/SEA-GAN-CT/tree/main/Images)
 
 
+[![GitHub](https://img.shields.io/badge/Code-blue?logo=github)](https://github.com/rajavavek/SEA-GAN-CT)   [![Paper](https://img.shields.io/badge/Paper-orange?logo=read-the-docs)](Under-Progress)   [![Demo](https://img.shields.io/badge/Demo-pink?logo=playstation)](https://github.com/rajavavek/SEA-GAN-CT/tree/main/Images)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajavavek/SEA-GAN-CT)
+
+
 **SEA-GAN-CT** introduces a cutting-edge Generative Adversarial Network (GAN) architecture designed to tackle key challenges in medical image synthesis, particularly in CT (Computed Tomography) scans. This model focuses on data augmentation in medical imaging while ensuring privacy-preserving capabilities and achieving high-fidelity results. By maintaining anatomical accuracy and enhancing edge preservation, SEA-GAN-CT presents a robust solution for the limited availability of annotated medical data, especially in high-stakes environments like healthcare.
 
 The proposed architecture integrates multiple innovations to enhance the quality, stability, and diagnostic applicability of synthesized CT images.
