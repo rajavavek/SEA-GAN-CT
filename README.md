@@ -1,6 +1,6 @@
 # Stable Edge Aware GAN for Data Augmentation and Privacy Preserving High Fidelity CT-Synthesis
 
-[![Code](https://img.shields.io/badge/SindMediTex-Dataset-blue)](https://github.com/rajavavek/SindMediTex/blob/main/SindMediTex.csv)   [![Paper](https://img.shields.io/badge/SindMediTex-Paper-orange)](https://github.com/rajavavek/SindMediTex/blob/main/SindMediTex.csv)  [![Demo](https://img.shields.io/badge/SindMediTex-Code-blue)](https://github.com/rajavavek/SindMediTex/tree/main/Codes)
+[![Code](https://img.shields.io/badge/SEA-GAN-CT-blue)](https://github.com/rajavavek/SEA-GAN-CT)   [![Paper](https://img.shields.io/badge/SEA-GAN-CT-orange)](Under-Progress)  [![Demo](https://img.shields.io/badge/SEA-GAN-CT-red)](https://github.com/rajavavek/SEA-GAN-CT/tree/main/Images)
 
 **SEA-GAN-CT** introduces a cutting-edge Generative Adversarial Network (GAN) architecture designed to tackle key challenges in medical image synthesis, particularly in CT (Computed Tomography) scans. This model focuses on data augmentation in medical imaging while ensuring privacy-preserving capabilities and achieving high-fidelity results. By maintaining anatomical accuracy and enhancing edge preservation, SEA-GAN-CT presents a robust solution for the limited availability of annotated medical data, especially in high-stakes environments like healthcare.
 
