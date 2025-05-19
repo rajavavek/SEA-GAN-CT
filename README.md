@@ -1,7 +1,7 @@
 # Stable Edge Aware GAN for Data Augmentation and Privacy Preserving High Fidelity CT-Synthesis
 
-[![Paper](https://img.shields.io/badge/Paper-orange?logo=read-the-docs))](Under-Progress)
-[![GitHub](https://img.shields.io/badge/GitHub-Code-blue)](https://github.com/rajavavek/SEA-GAN-CT)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-blue?logo=github)](https://github.com/rajavavek/SEA-GAN-CT)  
+[![Paper](https://img.shields.io/badge/Paper-red?logo=read-the-docs)](h5)  
 [![Demo](https://img.shields.io/badge/Demo-Demo-pink?logo=playstation)](https://github.com/rajavavek/SEA-GAN-CT/tree/main/Images)
 
 
