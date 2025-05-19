@@ -1,5 +1,5 @@
 # Stable Edge Aware GAN for Data Augmentation and Privacy Preserving High Fidelity CT-Synthesis
-**SEA-GAN-CT ** introduces a cutting-edge Generative Adversarial Network (GAN) architecture designed to tackle key challenges in medical image synthesis, particularly in CT (Computed Tomography) scans. This model focuses on data augmentation in medical imaging while ensuring privacy-preserving capabilities and achieving high-fidelity results. By maintaining anatomical accuracy and enhancing edge preservation, SEA-GAN-CT presents a robust solution for the limited availability of annotated medical data, especially in high-stakes environments like healthcare.
+**SEA-GAN-CT** introduces a cutting-edge Generative Adversarial Network (GAN) architecture designed to tackle key challenges in medical image synthesis, particularly in CT (Computed Tomography) scans. This model focuses on data augmentation in medical imaging while ensuring privacy-preserving capabilities and achieving high-fidelity results. By maintaining anatomical accuracy and enhancing edge preservation, SEA-GAN-CT presents a robust solution for the limited availability of annotated medical data, especially in high-stakes environments like healthcare.
 
 The proposed architecture integrates multiple innovations to enhance the quality, stability, and diagnostic applicability of synthesized CT images.
 
